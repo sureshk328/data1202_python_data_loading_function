@@ -11,5 +11,5 @@ The Python Code addresses the following functionalaties:
   * Function to calculate the distribution of channeltype "channeltype_distribution(df,grpbycol,coltocount)" has been created
 * Load only the top 1000 records of the original 4000 into a separate CSV file, and to a database table. 
     * Loading top 1000 into new csv file
-    * Create mysql engine and connect with connection string in format 'dialect+driver://username:password@host:port/database'
+    * Create MySQL engine and connect with connection string in format 'dialect+driver://username:password@host:port/database'
     * Import into MySQL table
