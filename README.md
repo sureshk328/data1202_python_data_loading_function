@@ -12,4 +12,4 @@ The Python Code addresses the following functionalaties:
 * Load only the top 1000 records of the original 4000 into a separate CSV file, and to a database table. 
     * Loading top 1000 into new csv file
     * Create mysql engine and connect with connection string in format 'dialect+driver://username:password@host:port/database'
-    * Import into MYSQL table
+    * Import into MySQL table
